@@ -1,0 +1,16 @@
+[
+{
+  "modid": "debugstick",
+  "name": "Debug Stick",
+  "description": "Debug Stick.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "credits": "e",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
